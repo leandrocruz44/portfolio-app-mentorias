@@ -210,7 +210,6 @@ a:hover {
   width: 100%;
   height: auto;
   font-size: 1rem;
-  text-align: justify;
   color: #fff;
   text-shadow: 0 0 7px #90CAFF;
   display: flex;
@@ -237,7 +236,7 @@ a:hover {
 
 .text p {
   display: block;
-  width: 65%;
+  width: 45%;
   line-height: 3rem;
 }
 
@@ -251,10 +250,9 @@ a:hover {
 
 .text li {
   list-style-type: disc;
-  width: 65%;
+  width: 45%;
   line-height: 3rem;
   margin-top: 20px;
-  text-align: justify;
 }
 
 @media screen and (max-width: 600px) {
